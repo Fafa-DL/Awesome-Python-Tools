@@ -1,2 +1,15 @@
 # Awesome-Python-Tools
-一些平时自用的自编Python脚本
+
+<div align="center">
+
+[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
+
+
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Awesome-Python-Tools)](https://github.com/Fafa-DL/Awesome-Python-Tools)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Awesome-Python-Tools)](https://github.com/Fafa-DL/Awesome-Python-Tools)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fafa-DL.Awesome-Python-Tools&right_color=yellow)
+
+</div>
+
+## 目录
+- 批量合并视频，详见`tools/videoMerge`
