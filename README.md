@@ -12,5 +12,5 @@
 </div>
 
 ## 目录
-- 批量合并视频，详见`tools/videoProcess/videoMerge`
-- Rviz中显示PCD，详见`tools/pointCloud/pcd_viewer`
+- 批量合并视频，详见[tools/videoProcess/videoMerge](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/VideoProcess/videoMerge)
+- Rviz中显示PCD点云，详见[tools/pointCloud/pcd_viewer](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/pointCloud/pcd_viewer)
