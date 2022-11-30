@@ -18,5 +18,5 @@
 
 ## 点云/ROS
 - Rviz中显示PCD点云，详见[tools/pointCloud/pcd_viewer](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/pointCloud/pcd_viewer)
-- PCD点云与bin相互转换，详见[tools/pointCloud/pcd_viewer](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/pointCloud/bin_to_pcd)
-- 将rosbag中img topic数据逐帧保存，不通过rosplay，详见[tools/pointCloud/pcd_viewer](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/pointCloud/bag_to_img)
+- PCD点云与bin相互转换，详见[tools/pointCloud/bin_to_pcd](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/pointCloud/bin_to_pcd)
+- 将rosbag中img topic数据逐帧保存，不通过rosplay，详见[tools/pointCloud/bag_to_img](https://github.com/Fafa-DL/Awesome-Python-Tools/tree/main/tools/pointCloud/bag_to_img)
